@@ -1,0 +1,32 @@
+.main h1{
+text-align: center;
+}
+.main{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+
+    
+
+}
+table{
+    width: 100%;
+
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+th,tr,td{
+    border: 2px solid black;
+   
+   padding: 20px 20px;
+    text-align: center;
+    
+
+}
+p{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-align: center;
+    font-size: x-large;
+   
+}
